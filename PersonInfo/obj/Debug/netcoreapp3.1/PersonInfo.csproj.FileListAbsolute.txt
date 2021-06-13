@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.exe
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.deps.json
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.runtimeconfig.json
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.dll
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\bin\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.pdb
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.dll
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.pdb
+C:\Users\A474627\source\repos\OOP_InterfacesAndAbstraction\OOP_InterfacesAndAbstraction\obj\Debug\netcoreapp3.1\OOP_InterfacesAndAbstraction.genruntimeconfig.cache
